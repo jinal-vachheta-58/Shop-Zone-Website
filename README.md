@@ -44,3 +44,7 @@ both customer-facing functionalities and administrative management.
 - Add, update, and delete products, categories, and subcategories.
 - View and manage customer feedback.
 - Track and manage orders, payments, and delivery statuses.
+
+![image](https://github.com/user-attachments/assets/3bf4b600-0d57-4e59-9b00-316293c40a3c)
+
+
