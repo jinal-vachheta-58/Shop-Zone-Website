@@ -45,7 +45,6 @@ both customer-facing functionalities and administrative management.
 - View and manage customer feedback.
 - Track and manage orders, payments, and delivery statuses.
 
-![image](https://github.com/user-attachments/assets/ae685481-20f0-4883-8d21-6f169290ac8e)
 
 
 
