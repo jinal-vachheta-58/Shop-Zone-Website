@@ -45,6 +45,64 @@ both customer-facing functionalities and administrative management.
 - View and manage customer feedback.
 - Track and manage orders, payments, and delivery statuses.
 
+### 7. **Database Integration**
+- Comprehensive database design with the following tables:
+  - `parent_category`, `sub_category`, `product`, `image`
+  - `cart`, `wishlist`, `orders`, `order_line_item`
+  - `customer`, `employee`, `delivery_person`, `payment`, `feedback`
+- Relationships established for efficient data retrieval.
+
+---
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS (Bootstrap framework styling), JavaScript.
+- **Backend**: Java (JSP, Servlets), JDBC.
+- **Database**: MySQL.
+- **Development Tools**: Eclipse IDE for dynamic web projects.
+- **Web Server**: Apache Tomcat.
+
+
+---
+
+## File Structure
+
+```
+
+  ├───.settings
+├───build
+│   └───classes
+│       └───project
+└───src
+    └───main
+        ├───java
+        │   └───project
+        └───webapp
+            ├───admin
+            ├───adminn
+            ├───css
+            ├───delivery_person
+            ├───files
+            ├───img
+            │   ├───cat_img
+            │   └───product_img
+            ├───js
+            ├───lib
+            │   ├───animate
+            │   ├───easing
+            │   └───owlcarousel
+            │       └───assets
+            ├───mail
+            ├───META-INF
+            ├───scss
+            │   └───bootstrap
+            │       └───scss
+            │           ├───mixins
+            │           ├───utilities
+            │           └───vendor
+            └───WEB-INF
+                └───lib
+```
 
 
 
