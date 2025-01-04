@@ -106,3 +106,83 @@ both customer-facing functionalities and administrative management.
 
 
 
+
+---
+
+## Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/shop-zone.git
+   ```
+
+2. Import the project into Eclipse IDE as a **Dynamic Web Project**.
+
+3. Set up the MySQL database:
+   - Create a database named `shop_zone`.
+   - Import the provided SQL file to set up tables and initial data.
+
+4. Update the database connection in `project/connection.java`:
+   ```java
+   String url = "jdbc:mysql://localhost:3306/shop_zone";
+   String username = "root";
+   String password = "your-password";
+   ```
+
+5. Deploy the project on Apache Tomcat:
+   - Right-click the project in Eclipse, select `Run on Server`, and choose Tomcat.
+
+6. Access the application in your browser at:
+   ```
+   http://localhost:8080/shop-zone/
+   ```
+
+---
+
+## Future Enhancements
+
+- Add support for multiple payment gateways.
+- Personalized Recommendations: Use machine learning to recommend products based on user behavior and preferences.
+- Wishlist Sharing: Allow users to share their wishlists with friends or family via email or social media.
+- Advanced Search Filters: Include more refined search filters, such as price range, brand, color, and ratings.
+- Inventory Alerts: Notify users when an out-of-stock item becomes available.
+- Social Media Integration: Allow users to log in and share products via their social media accounts.
+- Order Tracking: Provide detailed tracking information for orders, including live location updates.
+- Admin Dashboard Analytics: Include detailed analytics for admins to track sales, user behavior, and product performance.
+
+---
+
+## Contributors
+
+- **Jinal Vachheta**  
+  *Project Lead and Developer*  
+
+- *Team Member* 
+- **Aasima Mansuri**  
+- **Khushi Shah**  
+- **Krisa Shah**
+
+
+
+```
+## Dependencies  
+
+The project relies on the following libraries and JAR files:  
+
+1. **MySQL Connector JAR**  
+   - Download Link: [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)  
+   - `mysql-connector-j-9.0.0.jar`
+
+2. **Other JAR Files Used**  
+   - `javax.servlet-api.jar` (for servlet support)  
+   - `jsp-api.jar` (for JSP support)
+   
+
+### How to Add These JARs  
+1. Download the JAR files from the links provided.  
+2. Add them to your project's `lib` folder .  
+3. Ensure they are included in your project's classpath in the IDE.  
+
+
+
+
