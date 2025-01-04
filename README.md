@@ -154,13 +154,12 @@ both customer-facing functionalities and administrative management.
 
 ## Contributors
 
-- **Jinal Vachheta**  
-  *Project Lead and Developer*  
+- **Jinal Vachheta** : Project Lead and Developer
 
-- *Team Member* 
-- **Aasima Mansuri**  
-- **Khushi Shah**  
-- **Krisa Shah**
+ *Team Members* 
+  - **Aasima Mansuri**  
+  - **Khushi Shah**  
+  - **Krisa Shah**
 
 
 
