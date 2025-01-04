@@ -1,12 +1,16 @@
 # Shop-Zone-Website
 Shop Zone is a dynamic e-commerce web application built using Java (JSP, Servlets, JDBC), HTML, CSS,  JavaScript , MYSQL.
 
-Here’s a comprehensive **README.md** file description for your **Shop Zone** project:  
 
 ```markdown
 # Shop Zone
 
-**Shop Zone** is a dynamic and feature-rich e-commerce web application designed to provide users with a seamless online shopping experience. Built using **Java (JSP, Servlets, JDBC)** along with **HTML, CSS, and JavaScript**, it integrates a robust **MySQL database** to manage products, categories, customers, orders, and more. The application is developed to support both customer-facing functionalities and administrative management.
+**Shop Zone** is a dynamic and feature-rich e-commerce web application
+designed to provide users with a seamless online shopping experience.
+Built using **Java (JSP, Servlets, JDBC)** along with **HTML, CSS, and JavaScript**,
+it integrates a robust **MySQL database** to manage products, categories,
+customers, orders, and more. The application is developed to support
+both customer-facing functionalities and administrative management.
 
 ---
 
