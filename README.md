@@ -113,7 +113,7 @@ both customer-facing functionalities and administrative management.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shop-zone.git
+   git clone https://github.com/jinal-vachheta-58/Shop-Zone-Website.git
    ```
 
 2. Import the project into Eclipse IDE as a **Dynamic Web Project**.
@@ -132,10 +132,7 @@ both customer-facing functionalities and administrative management.
 5. Deploy the project on Apache Tomcat:
    - Right-click the project in Eclipse, select `Run on Server`, and choose Tomcat.
 
-6. Access the application in your browser at:
-   ```
-   http://localhost:8080/shop-zone/
-   ```
+
 
 ---
 
